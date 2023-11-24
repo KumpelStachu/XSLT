@@ -1,0 +1,28 @@
+{
+	"configurations": [
+		{
+			"type": "xslt",
+			"request": "launch",
+			"name": "HH0.xslt",
+			"xslPath": "${workspaceFolder}/HH0.xslt",
+			"sourcePath": "${workspaceFolder}/HH0.xml",
+			"destinationPath": "${workspaceFolder}/HH0.html"
+		},
+		{
+			"type": "xslt",
+			"request": "launch",
+			"name": "HH2.xslt",
+			"xslPath": "${workspaceFolder}/HH2.xslt",
+			"sourcePath": "${workspaceFolder}/HH2.xml",
+			"destinationPath": "${workspaceFolder}/HH2_.xml"
+		},
+		{
+			"type": "xslt",
+			"request": "launch",
+			"name": "HH.xslt",
+			"xslPath": "${workspaceFolder}/HH.xslt",
+			"sourcePath": "${workspaceFolder}/HH.xml",
+			"destinationPath": "${workspaceFolder}/HH.html"
+		}
+	]
+}
